@@ -1,6 +1,6 @@
 # CodeFunDo
 
-### Main Idea – To Develop an App and a Database of victims and rescuers to optimize the post disaster management
+### Main Idea – To Develop an App and a Database of victims and rescuers to optimize the post-disaster management
 
 The App will do the following:-
 
