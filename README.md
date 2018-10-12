@@ -1,6 +1,5 @@
 # CodeFunDo
 
-===============
 ### Main Idea – To Develop an App and a Database of victims and rescuers to optimize the post disaster management
 
 The App will do the following:-
@@ -10,7 +9,7 @@ The App will do the following:-
 •	Collect the information like contact number, age, work, gender and previous experiences of volunteers and rescuers who will act during emergency if demanded. Allocate them default locations to act in case of disaster.
 ### Before Disaster (internet connectivity available):
 •	Download the zonal map of the user’s area so that he can look for safe/danger points when there is no connectivity. \
-•	If a disaster is predicted by meteorological department the backend will inform the citizens of the area and send precautionary measures, nearest safe zones and danger zones, and contacts of rescuers in their zone in case of emergency or disaster. \
+•	If a disaster is predicted by meteorological department the backend will inform the citizens of the area and send precautionary measures, nearest safe zones and danger zones, and contacts of rescuers in their zone in case of emergency or disaster. 
 ### During disaster:
 •	“I’m safe” and “SOS” options to decide the people in need and the danger/safe locations. \
 •	Offline feature to send citizens’ location through message to specific number, using GPS. \
